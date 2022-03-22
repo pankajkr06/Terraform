@@ -1,4 +1,5 @@
 //Provider for AWS
+//My Simple Terraform Project
 
 provider "aws" {
       region  = "us-east-2"
